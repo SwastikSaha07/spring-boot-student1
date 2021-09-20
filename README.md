@@ -1,2 +1,2 @@
-# spring-boot-student1
+# spring-data-rest-swagger
 Hi.. how are you?
